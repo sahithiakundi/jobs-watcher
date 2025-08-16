@@ -1,1 +1,5 @@
-
+companies:
+  - name: Microsoft
+    careers_url: "https://jobs.careers.microsoft.com/global/en/search?q=Data%20Engineer&lc=India"
+  - name: Google
+    careers_url: "https://careers.google.com/jobs/results/?distance=50&employment_type=FULL_TIME&hl=en_US&location=India&q=data%20engineer"
